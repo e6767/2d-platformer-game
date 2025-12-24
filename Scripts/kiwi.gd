@@ -14,5 +14,6 @@ func _on_body_entered(body: Node2D) -> void:
 	collision_shape_2d.disabled = true
 	pass # Replace with function body.
 	
-func _disable_collision() -> void:
+
+	
 	
